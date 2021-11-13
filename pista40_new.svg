@@ -1,0 +1,6373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1682mm"
+   height="1189mm"
+   viewBox="0 0 1682 1189"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="pista40_new.svg"
+   inkscape:export-filename="C:\Seafile\Mydocsx\Robotica\Robotics2022\RobotAtFactory40\rules\pista40.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.21986995"
+     inkscape:cx="2719.7896"
+     inkscape:cy="2205.8494"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     width="1682mm"
+     showguides="false"
+     inkscape:window-width="2277"
+     inkscape:window-height="1490"
+     inkscape:window-x="5805"
+     inkscape:window-y="280"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       units="mm"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       snapvisiblegridlinesonly="false"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,892)">
+    <rect
+       transform="rotate(-90)"
+       y="100.5"
+       x="802.5"
+       height="89"
+       width="59"
+       id="rect4538"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(-90)"
+       y="1490.5"
+       x="-267.5"
+       height="89"
+       width="59"
+       id="rect4542-8"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-191.5"
+       x="423"
+       height="89"
+       width="59"
+       id="rect4542-8-4"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.96112;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4572"
+       width="1675.0388"
+       height="1175.0389"
+       x="2.4805641"
+       y="-889.51947" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3385"
+       width="59"
+       height="89"
+       x="802.5"
+       y="250.5"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       y="400.5"
+       x="802.5"
+       height="89"
+       width="59"
+       id="rect3387"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3398"
+       width="59"
+       height="89"
+       x="802.5"
+       y="550.5"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3404"
+       width="59"
+       height="89"
+       x="-267.5"
+       y="1340.5"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       y="1190.5"
+       x="-267.5"
+       height="89"
+       width="59"
+       id="rect3408"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3412"
+       width="59"
+       height="89"
+       x="-267.5"
+       y="1040.5"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3414"
+       width="59"
+       height="89"
+       x="503"
+       y="-191.5" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3416"
+       width="59"
+       height="89"
+       x="423"
+       y="-341.5" />
+    <rect
+       y="-341.5"
+       x="503"
+       height="89"
+       width="59"
+       id="rect3418"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-341.5"
+       x="1118"
+       height="89"
+       width="59"
+       id="rect3428"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3430"
+       width="59"
+       height="89"
+       x="1198"
+       y="-341.5" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3432"
+       width="59"
+       height="89"
+       x="1118"
+       y="-491.5" />
+    <rect
+       y="-491.5"
+       x="1198"
+       height="89"
+       width="59"
+       id="rect3434"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="shape-rendering:crispEdges"
+       id="g708"
+       transform="matrix(8.5714286,0,0,8.5714286,115.00007,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect624" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect626" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect628" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect630" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect632" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect634" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect636" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect638" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect640" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect642" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect644" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect646" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect648" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect650" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect652" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect654" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect656" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect658" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect660" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect662" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect664" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect666" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect668" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect670" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect672" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect674" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g794"
+       transform="matrix(8.5714286,0,0,8.5714286,265,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect710" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect712" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect714" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect716" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect718" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect720" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect722" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect724" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect726" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect728" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect730" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect732" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect734" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect736" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect738" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect740" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect742" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect744" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect746" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect748" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect750" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect752" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect754" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect756" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect758" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect760" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g880"
+       transform="matrix(8.5714286,0,0,8.5714286,415,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect796" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect798" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect800" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect802" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect804" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect806" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect808" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect810" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect812" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect814" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect816" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect818" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect820" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect822" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect824" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect826" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect828" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect830" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect832" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect834" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect836" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect838" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect840" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect842" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect844" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect846" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g966"
+       transform="matrix(8.5714286,0,0,8.5714286,565,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect882" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect884" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect886" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect888" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect890" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect892" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect894" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect896" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect898" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect900" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect902" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect904" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect906" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect908" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect910" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect912" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect914" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect916" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect918" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect920" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect922" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect924" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect926" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect928" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect930" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect932" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1052"
+       transform="matrix(8.5714286,0,0,8.5714286,810,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect968" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect970" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect972" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect974" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect976" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect978" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect980" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect982" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect984" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect986" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect988" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect990" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect992" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect994" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect996" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect998" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect1000" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1002" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1004" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect1006" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1008" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1010" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1012" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect1014" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect1016" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1018" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1138"
+       transform="matrix(8.5714286,0,0,8.5714286,1505,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1054" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect1056" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect1058" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1060" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect1062" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect1064" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1066" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1068" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect1070" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1072" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1074" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect1076" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect1078" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1080" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1082" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1084" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect1086" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect1088" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1090" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect1092" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1094" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1096" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1098" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect1100" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect1102" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect1104" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1224"
+       transform="matrix(8.5714286,0,0,8.5714286,810,-477)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1140" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1142" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect1144" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1146" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect1148" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect1150" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1152" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect1154" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1156" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect1158" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect1160" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1162" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect1164" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect1166" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect1168" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect1170" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1172" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1174" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect1176" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1178" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1180" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1182" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1184" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect1186" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect1188" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1190" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1310"
+       transform="matrix(8.5714286,0,0,8.5714286,1037,-477)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1226" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1228" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect1230" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1232" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1234" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1236" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1238" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect1240" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1242" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1244" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1246" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect1248" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect1250" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect1252" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect1254" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect1256" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect1258" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect1260" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1262" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1264" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1266" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1268" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1270" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1272" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1274" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect1276" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1396"
+       transform="matrix(8.5714286,0,0,8.5714286,1278,-477)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1312" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect1314" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1316" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect1318" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect1320" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1322" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect1324" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1326" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect1328" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect1330" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1332" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1334" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1336" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1338" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect1340" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1342" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect1344" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1346" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1348" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect1350" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1352" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect1354" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1356" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1358" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1360" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1362" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1482"
+       transform="matrix(8.5714286,0,0,8.5714286,1505,-477)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1398" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect1400" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1402" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect1404" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1406" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect1408" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1410" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect1412" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect1414" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect1416" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1418" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect1420" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1422" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect1424" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1426" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect1428" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1430" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1432" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect1434" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect1436" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1438" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1440" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1442" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect1444" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect1446" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect1448" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1568"
+       transform="matrix(8.5714286,0,0,8.5714286,115,-327)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1484" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect1486" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1488" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect1490" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1492" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect1494" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect1496" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1498" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect1500" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1502" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect1504" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1506" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1508" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1510" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1512" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect1514" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1516" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect1518" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1520" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect1522" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect1524" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1526" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1528" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1530" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1532" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect1534" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1654"
+       transform="matrix(8.5714286,0,0,8.5714286,342,-327)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1570" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect1572" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect1574" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect1576" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1578" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1580" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1582" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect1584" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1586" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1588" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect1590" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1592" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect1594" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect1596" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1598" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1600" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1602" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect1604" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect1606" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1608" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect1610" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1612" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1614" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1616" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect1618" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1620" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1740"
+       transform="matrix(8.5714286,0,0,8.5714286,583,-327)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1656" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect1658" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect1660" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1662" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1664" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1666" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1668" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1670" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1672" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1674" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1676" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect1678" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1680" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1682" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1684" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1686" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1688" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1690" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1692" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect1694" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect1696" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect1698" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1700" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1702" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect1704" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect1706" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1992"
+       transform="matrix(8.5714286,0,0,8.5714286,810.00009,-327)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1908" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1910" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1912" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1914" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect1916" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect1918" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect1920" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1922" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1924" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1926" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1928" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1930" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1932" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect1934" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect1936" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1938" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect1940" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1942" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1944" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1946" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1948" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1950" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1952" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect1954" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1956" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1958" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g2078"
+       transform="matrix(8.5714286,0,0,8.5714286,1037,-327)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1994" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect1996" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect1998" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect2000" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect2002" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect2004" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect2006" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect2008" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect2010" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect2012" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect2014" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect2016" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect2018" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect2020" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect2022" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect2024" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect2026" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect2028" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect2030" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect2032" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect2034" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect2036" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect2038" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect2040" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect2042" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect2044" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g2164"
+       transform="matrix(8.5714286,0,0,8.5714286,1278,-327)"
+       inkscape:export-filename="C:\Seafile\Mydocsx\Robotica\Robotics2022\RobotAtFactory40\rules\pista40.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect2080" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect2082" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect2084" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect2086" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect2088" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect2090" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect2092" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect2094" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect2096" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect2098" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect2100" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect2102" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect2104" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect2106" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect2108" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect2110" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect2112" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect2114" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect2116" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect2118" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect2120" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect2122" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect2124" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect2126" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect2128" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect2130" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g2250"
+       transform="matrix(8.5714286,0,0,8.5714286,1505.0004,-327)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect2166" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect2168" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect2170" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect2172" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect2174" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect2176" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect2178" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect2180" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect2182" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect2184" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect2186" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect2188" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect2190" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect2192" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect2194" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect2196" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect2198" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect2200" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect2202" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect2204" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect2206" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect2208" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect2210" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect2212" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect2214" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect2216" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g2336"
+       transform="matrix(8.5714286,0,0,8.5714286,115,-177)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect2252" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect2254" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect2256" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect2258" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect2260" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect2262" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect2264" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect2266" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect2268" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect2270" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect2272" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect2274" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect2276" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect2278" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect2280" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect2282" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect2284" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect2286" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect2288" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect2290" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect2292" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect2294" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect2296" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect2298" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect2300" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect2302" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g2944"
+       transform="matrix(8.5714286,0,0,8.5714286,342,-177)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect2860" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect2862" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect2864" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect2866" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect2868" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect2870" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect2872" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect2874" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect2876" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect2878" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect2880" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect2882" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect2884" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect2886" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect2888" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect2890" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect2892" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect2894" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect2896" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect2898" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect2900" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect2902" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect2904" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect2906" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect2908" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect2910" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3030"
+       transform="matrix(8.5714286,0,0,8.5714286,583,-177)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect2946" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect2948" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect2950" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect2952" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect2954" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect2956" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect2958" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect2960" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect2962" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect2964" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect2966" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect2968" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect2970" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect2972" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect2974" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect2976" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect2978" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect2980" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect2982" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect2984" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect2986" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect2988" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect2990" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect2992" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect2994" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect2996" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3116"
+       transform="matrix(8.5714286,0,0,8.5714286,810,-177)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect3032" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect3034" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect3036" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect3038" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect3040" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect3042" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect3044" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect3046" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect3048" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect3050" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect3052" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect3054" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect3056" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect3058" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect3060" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect3062" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect3064" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect3066" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect3068" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect3070" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect3072" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect3074" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect3076" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect3078" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect3080" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect3082" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3368"
+       transform="matrix(8.5714286,0,0,8.5714286,115,27.999972)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect3284" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect3286" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect3288" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect3290" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect3292" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect3294" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect3296" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect3298" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect3300" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect3302" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect3304" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect3306" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect3308" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect3310" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect3312" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect3314" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect3316" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect3318" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect3320" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect3322" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect3324" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect3326" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect3328" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect3330" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect3332" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect3334" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3454"
+       transform="matrix(8.5714286,0,0,8.5714286,810,28)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect3370" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect3372" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect3374" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect3376" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect3378" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect3380" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect3382" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect3384" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect3386" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect3388" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect3390" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect3392" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect3394" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect3396" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect3398-9" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect3400" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect3402" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect3404-7" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect3406" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect3408-8" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect3410" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect3412-0" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect3414-3" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect3416-8" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect3418-5" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect3420" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3540"
+       transform="matrix(8.5714286,0,0,8.5714286,1055,28)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect3456" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect3458" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect3460" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect3462" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect3464" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect3466" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect3468" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect3470" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect3472" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect3474" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect3476" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect3478" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect3480" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect3482" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect3484" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect3486" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect3488" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect3490" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect3492" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect3494" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect3496" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect3498" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect3500" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect3502" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect3504" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect3506" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3626"
+       transform="matrix(8.5714286,0,0,8.5714286,1205,28)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect3542" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect3544" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect3546" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect3548" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect3550" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect3552" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect3554" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect3556" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect3558" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect3560" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect3562" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect3564" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect3566" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect3568" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect3570" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect3572" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect3574" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect3576" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect3578" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect3580" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect3582" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect3584" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect3586" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect3588" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect3590" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect3592" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3712"
+       transform="matrix(8.5714286,0,0,8.5714286,1355,28)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect3628" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect3630" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect3632" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect3634" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect3636" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect3638" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect3640" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect3642" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect3644" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect3646" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect3648" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect3650" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect3652" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect3654" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect3656" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect3658" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect3660" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect3662" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect3664" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect3666" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect3668" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect3670" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect3672" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect3674" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect3676" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect3678" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g3798"
+       transform="matrix(8.5714286,0,0,8.5714286,1505.0004,28)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect3714" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#ffffff"
+         id="rect3716" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#ffffff"
+         id="rect3718" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect3720" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect3722" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect3724" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect3726" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect3728" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect3730" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect3732" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect3734" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect3736" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect3738" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect3740" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect3742" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect3744" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect3746" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect3748" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect3750" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect3752" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect3754" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect3756" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect3758" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect3760" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect3762" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect3764" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1653"
+       transform="matrix(8.5714286,0,0,8.5714286,1037,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1569" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1571" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1573" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect1575" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1577" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1579" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1581" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1583" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1585" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#ffffff"
+         id="rect1587" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1589" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect1591" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1593" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect1595" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect1597" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect1599" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1601" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1603" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1605" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1607" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1609" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1611" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1613" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect1615" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1617" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1619" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1739"
+       transform="matrix(8.5714286,0,0,8.5714286,1278,-682)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1655" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1657" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1659" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#000000"
+         id="rect1661" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1663" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect1665" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1667" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1669" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1671" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1673" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect1675" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect1677" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect1679" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1681" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1683" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1685" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect1687" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect1689" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#000000"
+         id="rect1691" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1693" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1695" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect1697" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#000000"
+         id="rect1699" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1701" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1703" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#ffffff"
+         id="rect1705" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1825"
+       transform="matrix(8.5714286,0,0,8.5714286,342,28)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1741" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1743" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1745" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1747" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect1749" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1751" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1753" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect1755" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#000000"
+         id="rect1757" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1759" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect1761" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1763" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect1765" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#ffffff"
+         id="rect1767" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect1769" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1771" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#000000"
+         id="rect1773" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect1775" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect1777" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1779" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect1781" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1783" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1785" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#ffffff"
+         id="rect1787" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1789" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1791" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1911"
+       transform="matrix(8.5714286,0,0,8.5714286,583,28)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1827" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1829" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1831" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1833" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect1835" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1837" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect1839" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect1841" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1843" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1845" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#ffffff"
+         id="rect1847" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#000000"
+         id="rect1849" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1851" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1853" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1855" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1857" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1859" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#000000"
+         id="rect1861" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect1863" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1865" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#000000"
+         id="rect1867" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1869" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1871" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1873" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#000000"
+         id="rect1875" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1877" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1761"
+       transform="matrix(8.5714286,0,0,8.5714286,115,-477)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1677-6" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1679-0" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1681-7" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1683-5" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#000000"
+         id="rect1685-8" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#000000"
+         id="rect1687-0" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#000000"
+         id="rect1689-7" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#ffffff"
+         id="rect1691-1" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1693-1" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1695-8" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1697-1" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1699-3" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#000000"
+         id="rect1701-8" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1703-3" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#000000"
+         id="rect1705-3" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#000000"
+         id="rect1707" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1709" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1711" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect1713" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#000000"
+         id="rect1715" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1717" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#ffffff"
+         id="rect1719" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1721" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1723" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1725" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1727" />
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g1847"
+       transform="matrix(8.5714286,0,0,8.5714286,1505.0004,-177)">
+      <rect
+         x="0"
+         y="0"
+         width="7"
+         height="7"
+         fill="#000000"
+         id="rect1763-2" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="1"
+         fill="#000000"
+         id="rect1765-5" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="1"
+         fill="#000000"
+         id="rect1767-1" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="1"
+         fill="#ffffff"
+         id="rect1769-7" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="1"
+         fill="#ffffff"
+         id="rect1771-3" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="1"
+         fill="#ffffff"
+         id="rect1773-5" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="2"
+         fill="#ffffff"
+         id="rect1775-3" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="2"
+         fill="#000000"
+         id="rect1777-6" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="2"
+         fill="#ffffff"
+         id="rect1779-6" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="2"
+         fill="#000000"
+         id="rect1781-1" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="2"
+         fill="#000000"
+         id="rect1783-9" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="3"
+         fill="#ffffff"
+         id="rect1785-9" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="3"
+         fill="#ffffff"
+         id="rect1787-7" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="3"
+         fill="#000000"
+         id="rect1789-0" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="3"
+         fill="#ffffff"
+         id="rect1791-2" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="3"
+         fill="#ffffff"
+         id="rect1793" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="4"
+         fill="#ffffff"
+         id="rect1795" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="4"
+         fill="#ffffff"
+         id="rect1797" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="4"
+         fill="#ffffff"
+         id="rect1799" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="4"
+         fill="#ffffff"
+         id="rect1801" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="4"
+         fill="#ffffff"
+         id="rect1803" />
+      <rect
+         width="1"
+         height="1"
+         x="1"
+         y="5"
+         fill="#000000"
+         id="rect1805" />
+      <rect
+         width="1"
+         height="1"
+         x="2"
+         y="5"
+         fill="#ffffff"
+         id="rect1807" />
+      <rect
+         width="1"
+         height="1"
+         x="3"
+         y="5"
+         fill="#000000"
+         id="rect1809" />
+      <rect
+         width="1"
+         height="1"
+         x="4"
+         y="5"
+         fill="#ffffff"
+         id="rect1811" />
+      <rect
+         width="1"
+         height="1"
+         x="5"
+         y="5"
+         fill="#000000"
+         id="rect1813" />
+    </g>
+  </g>
+</svg>
