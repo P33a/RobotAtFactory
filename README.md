@@ -1,5 +1,5 @@
-# RobotAtFactoryLite
-Robot at Factory Lite Competition files:
+# RobotAtFactory
+Robot at Factory 4.0 Competition files:
 
  - Rules
 
